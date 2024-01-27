@@ -1,0 +1,2 @@
+# survives_explosion
+predicateのsurvives_explosionに関するデータパックサンプルになります。
